@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm [YOUR NAME] 👋
 
-<!--
-**MehdiEK/MehdiEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Time Series | Forecasting | Energy ⚡
 
-Here are some ideas to get you started:
+I'm a Data Scientist graduated from CentraleSupelec (top#3 engineer school in France), interested in **time series, forecasting, machine learning and energy-related applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a consultant, I enjoy working on data-driven problem from definition of the business problem to deploying a solution, with a focus on building robust and interpretable models.
+
+👨‍🍳 Currently building 
+---
+
+## 🔬 Areas of Interest
+
+* 📈 Time Series Analysis & Forecasting
+* ⚡ Energy, Electricity markets & Weather data
+* 🤖 Probabilistic forecasting & Time Series Foundation Models
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data**
+
+* Python
+* SQL
+
+**Data Science & Machine Learning**
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Nixtla
+
+**Tools & Engineering**
+
+* Git / GitHub
+* Docker
+* Linux, Windows
+
+---
+
+## 🚀 Featured Projects
+
+### ⏳ Currently Building
+
+---
+
+## 📚 Currently Exploring
+
+* Time Series Foundation Models for probabilistic forecasting
+* Evaluation and monitoring of probabilistic forecasts
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/mehdi-el-kansouli/
+* Email: elkansoulimehdi@yahoo.fr
+
+---
+
+*Interested in Data Science, Time Series, Forecasting and Energy.*
