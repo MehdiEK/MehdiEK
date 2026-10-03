@@ -1,4 +1,4 @@
-# Hi, I'm [YOUR NAME] 👋
+# Hi, I'm Mehdi El Kansouli 👋
 
 ### Data Scientist | Time Series | Forecasting | Energy ⚡
 
