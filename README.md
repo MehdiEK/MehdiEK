@@ -49,6 +49,7 @@ As a consultant, I enjoy working on data-driven problem from definition of the b
 
 * Time Series Foundation Models for probabilistic forecasting
 * Evaluation and monitoring of probabilistic forecasts
+* Topology Data Analysis for Time Series
 
 ---
 
