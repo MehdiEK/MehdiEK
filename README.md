@@ -6,7 +6,11 @@ I'm a Data Scientist graduated from CentraleSupelec (top#3 engineer school in Fr
 
 As a consultant, I enjoy working on data-driven problem from definition of the business problem to deploying a solution, with a focus on building robust and interpretable models.
 
-👨‍🍳 Currently building 
+## 👨‍🍳 Currently cooking 
+
+I am currently building **ProbCast** : an open package for probabilistic forecasting evaluation and monitoring. I believe monitoring forecasting models at scale and in production is the future of time-series data science to ensure quality, trust and added value of forecasting models.
+Stay tuned !
+
 ---
 
 ## 🔬 Areas of Interest
